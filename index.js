@@ -130,7 +130,7 @@ ipcMain.on(MSFT_OPCODE.OPEN_LOGIN, (ipcEvent, ...arguments_) => {
         width: 520,
         height: 600,
         frame: true,
-        icon: getPlatformIcon('thesite_logo')
+        icon: getPlatformIcon('abyssoria_logo')
     })
 
     msftAuthWindow.on('closed', () => {
@@ -183,7 +183,7 @@ ipcMain.on(MSFT_OPCODE.OPEN_LOGOUT, (ipcEvent, uuid, isLastAccount) => {
         width: 520,
         height: 600,
         frame: true,
-        icon: getPlatformIcon('thesite_logo')
+        icon: getPlatformIcon('abyssoria_logo')
     })
 
     msftLogoutWindow.on('closed', () => {
@@ -231,7 +231,7 @@ function createWindow() {
         minWidth: 980,
         minHeight: 552,
         height: 552,
-        icon: getPlatformIcon('thesite_logo'),
+        icon: getPlatformIcon('abyssoria_logo'),
         frame: false,
         webPreferences: {
             preload: path.join(__dirname, 'app', 'assets', 'js', 'preloader.js'),
