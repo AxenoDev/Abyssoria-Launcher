@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Abyssoria Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://abyssoria.fr/"
+mediaTwitterURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "https://www.youtube.com/@abyssoria_roleplay"
+mediaDiscordURL = "https://discord.gg/K5Bt7z6SbZ"
+
+[ejs.settings]
+sourceGithubLink = "https://discord.gg/K5Bt7z6SbZ"
+supportLink = "https://discord.gg/K5Bt7z6SbZ"
+
+[ejs.welcome]
+welcomeHeader = "BIENVENUE SUR ABYSSORIA"
+welcomeDescription = "Apprêtez-vous à être plongés dans une ville futuriste et dangereuse où survivre n'est pas une option. Votre aventure débutera au sein d'une métropole au bord de la révolte. Économie, politique, guerre, famine... Tout peut y basculer d'un moment à l'autre. La situation parviendra-t-elle à se redresser à temps où est-il déjà trop tard pour y changer les choses ?"
+welcomeDescCTA = "Encore un clic pour rejoindre Abyssoria !"
